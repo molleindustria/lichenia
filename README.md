@@ -12,7 +12,7 @@ There are no goals and no endings in Lichenia. Learn about its cryptic ecology. 
 
 Made with [P5.js](http://p5js.org) and [P5.play](http://molleindustria.github.io/p5.play/)
 
-The graphics are derived from Everest Pipkin's [Mushy Tiles](https://everestpipkin.itch.io/mushy) released under [CC-BY-3.0 license] (https://creativecommons.org/licenses/by/3.0/)
+The graphics are derived from Everest Pipkin's [Mushy Tiles](https://everestpipkin.itch.io/mushy) released under [CC-BY-3.0 license](https://creativecommons.org/licenses/by/3.0/)
 
 All code is released under GNU Lesser General Public License v2.1
 
